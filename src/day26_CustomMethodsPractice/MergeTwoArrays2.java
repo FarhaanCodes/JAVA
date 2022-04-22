@@ -1,7 +1,7 @@
 package day26_CustomMethodsPractice;
 
 
-import utilities.ArraysUtility;
+import day48_Collections.utilities.ArraysUtility;
 
 import java.util.Arrays;
 

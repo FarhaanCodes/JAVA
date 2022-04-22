@@ -1,6 +1,6 @@
 package day01_JavaIntro;
 
-import utilities.StringUtility;
+import day48_Collections.utilities.StringUtility;
 
 public class Test {
 

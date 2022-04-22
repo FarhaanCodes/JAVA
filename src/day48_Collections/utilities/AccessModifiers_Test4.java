@@ -1,6 +1,6 @@
-package utilities;
+package day48_Collections.utilities;
 
-import day40_FinalKeyword.ProtectedAccessModifier;
+import day37_Inheritance.day40_FinalKeyword.ProtectedAccessModifier;
 
 public class AccessModifiers_Test4 extends ProtectedAccessModifier {
 

@@ -3,7 +3,7 @@ package day34_GarbageCollection_AccessModifiers;
 
 import static day34_GarbageCollection_AccessModifiers.Circle.*;
 
-import static utilities.MathUtility.*;
+import static day48_Collections.utilities.MathUtility.*;
 
 public class Test {
 

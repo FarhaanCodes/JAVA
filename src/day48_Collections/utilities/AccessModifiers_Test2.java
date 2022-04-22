@@ -1,4 +1,4 @@
-package utilities;
+package day48_Collections.utilities;
 
 import day34_GarbageCollection_AccessModifiers.AccessModifiers;
 
